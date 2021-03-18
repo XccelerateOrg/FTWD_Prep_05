@@ -25,3 +25,8 @@ The purpose of this repository is to ensure all students can push and pull from 
 
 - Check what brand you're on
   git branch -a
+
+### If github repository has been updated by someone else
+
+- git pull
+
